@@ -30,6 +30,9 @@ Am a DevOps enthusiast, with over 10 years of experience in Cloud and Devops fie
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/Venkij-1990/48340B158EDCA9BC?sharingId=436214FC6C6D70FF" target="_blank" rel="noreferrer">
   <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900 Azure Fundamentals" width="120" height="120"/> </a>
 
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/Venkij-1990/1341784EC4BC86B?sharingId=436214FC6C6D70FF" target="_blank" rel="noreferrer">
+  <img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="AZ-900 Azure Fundamentals" width="120" height="120"/> </a>
+
 </p>
 
 <br />
